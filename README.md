@@ -1,6 +1,11 @@
 README
 ======
 
+WARNING
+-------
+
+**DEVELOPMENT HAS MOVED TO [claroline/Distribution](http://github.com/claroline/Distribution). THIS REPOSITORY IS NO LONGER MAINTAINED.**
+
 Doctrine Migrations integration bundle providing :
 
 - Generation of migration classes on a per bundle basis
